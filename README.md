@@ -28,10 +28,11 @@ This is a project that lets you control essential coputer operations such as rig
 
 ## Files
 
-- `hand_control_gestures.py` — main script (gesture → action)
-- `requirements.txt` — pip install list
+- `hand_control_full.py` — main script (gesture → action)
+- `hand_control_basic.py` — subsidary script (moving the cursor using gesture)
 - `README.md` — this file
-- `.gitignore` — ignores typical Python artifacts
+- `gitignore.txt` — ignores typical Python artifacts
+
 
 ---
 
